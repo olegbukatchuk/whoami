@@ -1,9 +1,9 @@
 ---
-title: About others
-author: Tao He
-date: 2022-02-04
+title: Тест
+author: Oleg Bukatchuk
+date: 2025-10-16
 category: Jekyll
 layout: post
 ---
 
-This is an about page for "others" in the collections.
+Тестовый текст...
