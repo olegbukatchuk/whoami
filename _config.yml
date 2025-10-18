@@ -41,7 +41,7 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:collection/:path/
+permalink:                /:categories/:path/
 #permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
@@ -51,7 +51,7 @@ exclude:
   - _drafts
 
 collections:
-  posts:
+  course:
     output: true
     permalink: /:collection/:path/
   pages:
@@ -63,6 +63,7 @@ collections:
 
 ordered_collections:
   - posts
+  - course
   - pages
   - others
 
