@@ -1,9 +1,9 @@
 ---
-title: Контакты
+title: Операционные системы
 author: Oleg Bukatchuk
 date: 2025-10-16
-category: Jekyll
+category: os
 layout: post
 ---
 
-Контакты
+
