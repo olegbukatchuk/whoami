@@ -1,8 +1,8 @@
 ---
 title: Введение
 author: Oleg Bukatchuk
-date: 2019-04-27
-category: Jekyll
+date: 2025-10-18
+category: Introduction
 layout: post
 ---
 
