@@ -6,4 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-Благодарности...
+ - Всей команде Github, где хостится этот проект, а именно Github Pages.
+ - Разработчикам [mermaid.js](https://mermaid.js.org/)
